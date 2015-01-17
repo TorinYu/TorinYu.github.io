@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://torinyu.github.io/atom.xml" rel="self"/>
-  <link href="http://torinyu.github.io/"/>
-  <updated>2015-01-17T22:42:34+08:00</updated>
-  <id>http://torinyu.github.io/</id>
+  <link href="http://taoyu.github.io/atom.xml" rel="self"/>
+  <link href="http://taoyu.github.io/"/>
+  <updated>2015-01-17T22:49:57+08:00</updated>
+  <id>http://taoyu.github.io/</id>
   <author>
     <name><![CDATA[Tao Yu]]></name>
     
